@@ -1,2 +1,5 @@
-name = input("Please input your name :")
-print('Hello!' , name , '!')
+name=''
+while name !='a':
+    print('Please input your name :')
+    name = input()
+print(name)

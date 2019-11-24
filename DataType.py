@@ -26,7 +26,14 @@ print(float('3.14152936'))
 
 print(bool(1))
 
-
+print("===============字串,習慣上用單引號，如果字串當中有單引號使用雙引號")
+print('\\t')
+#raw string
+print(r'\t')
+print('It is a string')
+print("It's a String")
+print('''It will show everything you input including line break
+        Here is new line!''')
 
 
 
