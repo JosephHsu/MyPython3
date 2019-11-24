@@ -19,3 +19,7 @@ result = 'Hello~{} {}'.format(firstName,lastName)
 print(result)
 #only available in python3
 print(f'Hello,{firstName} {lastName}')
+
+name = input("Please input your name :")
+print('Hello!' , name , '!')
+
